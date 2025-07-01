@@ -1,0 +1,1 @@
+pub const BOARDOVERSE_SEED: &[u8]  = b"BOARDOVERSE";
